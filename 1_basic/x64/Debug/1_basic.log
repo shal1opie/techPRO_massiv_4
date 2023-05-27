@@ -1,0 +1,4 @@
+﻿  1_basic.cpp
+C:\PO\1arr\repa\techPRO_massiv_4\1_basic\1_basic.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\PO\1arr\repa\techPRO_massiv_4\1_basic\1_basic.cpp(9,6): warning C4101: i: неиспользованная локальная переменная
+  1_basic.vcxproj -> C:\PO\1arr\repa\techPRO_massiv_4\1_basic\x64\Debug\1_basic.exe
